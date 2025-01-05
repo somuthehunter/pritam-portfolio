@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "homepage": "https://somuthehunter.github.io/pritam-portfolio/",
+  "homepage": "./",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
